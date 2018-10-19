@@ -1,2 +1,3 @@
 # Dancing-Cho-gall
-Never more
+
+A HotS win-rate analyzer based on tensorflow
